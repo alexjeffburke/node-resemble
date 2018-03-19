@@ -1,10 +1,10 @@
 {
-  "name": "resemble",
+  "name": "@alexjeffburke/resemble",
   "description": "Image analysis and comparison",
   "version": "1.4.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kpdecker/node-resemble.git"
+    "url": "https://github.com/alexjeffburke/node-resemble.git"
   },
   "engines": {
     "node": ">= 0.8"
